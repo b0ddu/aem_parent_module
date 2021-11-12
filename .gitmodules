@@ -1,0 +1,4 @@
+[submodule "aem_sub_platform"]
+	path = aem_sub_platform
+	url = https://github.com/sankeerthb/aem_sub_platform.git
+	branch = main
