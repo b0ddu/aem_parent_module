@@ -2,3 +2,7 @@
 	path = aem_sub_platform
 	url = https://github.com/sankeerthb/aem_sub_platform.git
 	branch = main
+[submodule "aem_sub_lending"]
+	path = aem_sub_lending
+	url = https://github.com/sankeerthb/aem_sub_lending.git
+	branch = main
